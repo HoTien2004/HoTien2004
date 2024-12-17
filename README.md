@@ -1,6 +1,9 @@
 <h2 align="center">🔥 My Projects 🔥</h2>
 <div align=center>
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=Backend0-Nodejs&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=ReactJS-Zero&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -43,20 +46,19 @@
 <br>
 <div align="center">
   <a href="https://www.facebook.com/quyet.tien.211972" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" alt="HoTien2004-facebook" />
+    <img src="https://img.icons8.com/?size=100&id=118501&format=png&color=000000" alt="HoTien2004-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/hotien2004/" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=X8g2OZMx4ET5&format=png&color=000000" alt="HoTien2004-linkedin" />
+    <img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="HoTien2004-linkedin" />
   </a>
-  <a href="mailto:hotien804@gmail.com" target="top">
-    <img src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000" alt="HoTien2004-email" />
+  <a href="mailto:hotien804@gmail.com" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=48165&format=png&color=000000" alt="HoTien2004-email" />
   </a>
 </div>
 <br>
 
 <h2 align="center">❓ Others ❓</h2>
-<div align=center>
-  <a href="#" title="HoTien2004">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoTien2004&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoTien2004&theme=swift&show_icons=true)
+  
+
