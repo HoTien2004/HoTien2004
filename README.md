@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004
+&repo=github-readme-stats)](https://github.com/HoTien2004/Backend0-Nodejs.git)
