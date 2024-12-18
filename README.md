@@ -1,8 +1,8 @@
 <h2 align="center">🔥 My Projects 🔥</h2>
 <div align=center>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=Backend0-Nodejs&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=ReactJS-Zero&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=Backend0-Nodejs&theme=swift&show_icons=true)](https://github.com/HoTien2004/Backend0-Nodejs.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=ReactJS-Zero&theme=swift&show_icons=true)](https://github.com/HoTien2004/ReactJS-Zero.git)
 
 </div>
 
