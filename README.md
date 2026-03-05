@@ -1,66 +1,84 @@
-<h2 align="center">🔥 My Projects 🔥</h2>
-<div align=center>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=FullstackMERN-Food&theme=swift&show_icons=true)](https://github.com/HoTien2004/FullstackMERN-Food.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=FullstackJWT-Access_Token&theme=swift&show_icons=true)](https://github.com/HoTien2004/FullstackJWT-Access_Token.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=FullstackToDoList&theme=swift&show_icons=true)](https://github.com/HoTien2004/FullstackToDoList.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=LearnLog&theme=swift&show_icons=true)](https://github.com/HoTien2004/LearnLog.git)
+<h1 align="center">Hi 👋, I'm Tien Ho</h1>
+<h3 align="center">🚀 Fullstack Developer | JavaScript & TypeScript Enthusiast</h3>
 
-</div>
+---
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<br>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+## 🔥 My Featured Projects
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
 <div align="center">
-  <a href="https://www.facebook.com/quyet.tien.211972" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=118501&format=png&color=000000" alt="HoTien2004-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/hotien2004/" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="HoTien2004-linkedin" />
-  </a>
-  <a href="mailto:hotien804@gmail.com" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=48165&format=png&color=000000" alt="HoTien2004-email" />
-  </a>
+
+[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=e-commerce_platform&theme=swift&cache_seconds=86400&v=1)](https://github.com/HoTien2004/e-commerce_platform)
+
+[![Fullstack JWT Auth](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=FullstackJWT-Access_Token&theme=swift&cache_seconds=86400&v=1)](https://github.com/HoTien2004/FullstackJWT-Access_Token)
+
+[![Fullstack ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=FullstackToDoList&theme=swift&cache_seconds=86400&v=1)](https://github.com/HoTien2004/FullstackToDoList)
+
+[![LearnLog](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=LearnLog&theme=swift&cache_seconds=86400&v=1)](https://github.com/HoTien2004/LearnLog)
+
 </div>
-<br>
 
-<h2 align="center">❓ Others ❓</h2>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoTien2004&theme=swift&show_icons=true)
-  
+---
 
+## 🛠 Tech Stack
+
+### 💻 Languages & Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express" />
+</p>
+
+### 🎨 Frontend & Styling
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass" />
+</p>
+
+### 🗄 Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚙ Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HoTien2004&show_icons=true&theme=swift&count_private=true&cache_seconds=86400&v=1"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoTien2004&layout=compact&theme=swift&hide=html,css&cache_seconds=86400&v=1"/>
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+<a href="https://www.facebook.com/quyet.tien.211972" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hotien2004/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hotien804@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HoTien2004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+<h3 align="center">🔥 Keep Building. Keep Learning. Keep Growing. 🔥</h3>
