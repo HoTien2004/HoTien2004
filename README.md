@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tien Ho</h1>
-<h3 align="center">🚀 Fullstack Developer | JavaScript & TypeScript Enthusiast</h3>
+<h3 align="center">🚀 Backend Developer | Node.js & API Specialist</h3>
 
 ---
 
@@ -7,13 +7,23 @@
 
 <div align="center">
 
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=e-commerce_platform&theme=swift&cache_seconds=86400&v=1)](https://github.com/HoTien2004/e-commerce_platform)
+<a href="https://github.com/HoTien2004/e-commerce_platform">
+  <img src="https://opengraph.githubassets.com/1/HoTien2004/e-commerce_platform" width="400"/>
+</a>
 
-[![Fullstack JWT Auth](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=FullstackJWT-Access_Token&theme=swift&cache_seconds=86400&v=1)](https://github.com/HoTien2004/FullstackJWT-Access_Token)
+<a href="https://github.com/HoTien2004/ai-task-manager-mern">
+  <img src="https://opengraph.githubassets.com/1/HoTien2004/ai-task-manager-mern" width="400"/>
+</a>
 
-[![Fullstack ToDoList](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=FullstackToDoList&theme=swift&cache_seconds=86400&v=1)](https://github.com/HoTien2004/FullstackToDoList)
+<br><br>
 
-[![LearnLog](https://github-readme-stats.vercel.app/api/pin/?username=HoTien2004&repo=LearnLog&theme=swift&cache_seconds=86400&v=1)](https://github.com/HoTien2004/LearnLog)
+<a href="https://github.com/Vo-Xuan-Duong/FastCar">
+  <img src="https://opengraph.githubassets.com/1/Vo-Xuan-Duong/FastCar" width="400"/>
+</a>
+
+<a href="https://github.com/NguyenGiaKiet2004/FE_WEB_TTNT">
+  <img src="https://opengraph.githubassets.com/1/NguyenGiaKiet2004/FE_WEB_TTNT" width="400"/>
+</a>
 
 </div>
 
@@ -21,24 +31,19 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages & Backend
+### 💻 Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express" />
-</p>
-
-### 🎨 Frontend & Styling
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js&theme=light" />
 </p>
 
 ### 🗄 Database
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
 </p>
 
 ### ⚙ Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,vscode" />
+<img src="https://skillicons.dev/icons?i=git,vscode,postman&theme=light" />
 </p>
 
 ---
@@ -47,9 +52,13 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HoTien2004&show_icons=true&theme=swift&count_private=true&cache_seconds=86400&v=1"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HoTien2004&theme=default"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoTien2004&layout=compact&theme=swift&hide=html,css&cache_seconds=86400&v=1"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoTien2004&theme=default"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=HoTien2004&theme=default" />
 
 </div>
 
@@ -58,17 +67,21 @@
 ## 🌐 Connect with me
 
 <p align="center">
+
 <a href="https://www.facebook.com/quyet.tien.211972" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/hotien2004/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
 &nbsp;&nbsp;
+
 <a href="mailto:hotien804@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
 </a>
+
 </p>
 
 ---
@@ -76,9 +89,9 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HoTien2004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=HoTien2004&label=Profile%20Views&color=51c09f&style=flat" />
 </p>
 
 ---
 
-<h3 align="center">🔥 Keep Building. Keep Learning. Keep Growing. 🔥</h3>
+<h3 align="center">🌱 Building Scalable APIs & Reliable Systems</h3>
